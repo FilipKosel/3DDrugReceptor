@@ -14,6 +14,11 @@ Files are provided under the Creative Commons BY-SA 4.0 license (https://creativ
 
 REVISIONS:
 
+Version 2022-12-20 (Braille only) Revisions:
+
+- Fixed incorrect braille on non-competitive antagonist.
+
+
 Version 2022-11-16 Revisions:
 - Receptor activation can now be determined by feel via extensions on the ligands which fit into the notches in the receptor. Full activation = 2 extensions; partial activation = 1 extension; no activation = no extensions.
 - Ligands are now labelled: FA = full agonist; PA = partial agonist; CA = competitive antagonist; NCA = non-competitive antagonist. Ligands are also available with the same labels in braille.
